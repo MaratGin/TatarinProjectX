@@ -7,7 +7,6 @@
 <?import javafx.scene.layout.*?>
 
 
-<?xml version="1.0" encoding="UTF-8"?>
 
 <?import java.lang.*?>
 <?import java.util.*?>
@@ -39,7 +38,6 @@
             <ScrollPane  minWidth="400" minHeight="450"
                          id="message-view" fx:id="messageView">
                 <VBox fx:id="messages">
-                    <children/>
                 </VBox>
             </ScrollPane>
 
@@ -51,7 +49,7 @@
 
         </VBox>
 
-        <StackPane id="pudge-3d" prefHeight="400" prefWidth="820" xmlns:fx="http://javafx.com/fxml" >
+        <StackPane id="pudge-3d" prefHeight="400" prefWidth="820"  >
 
         </StackPane>
 

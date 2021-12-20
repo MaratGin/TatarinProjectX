@@ -13,6 +13,7 @@ import java.util.ResourceBundle;
 
 public class ChatController implements Initializable {
 
+    public TextField name;
     @FXML
     private VBox messages;
 
