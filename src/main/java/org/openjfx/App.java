@@ -14,11 +14,7 @@ import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 
-/**
- * JavaFX App
- */
 public class App extends Application {
- //opoppopo
     private static Scene scene;
 
     @Override
